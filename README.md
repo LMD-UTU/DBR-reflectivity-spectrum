@@ -8,3 +8,4 @@ These are MATLAB codes to model the reflectivity spectrum of Distributed Bragg R
 - polarization
 
 It is important to note that the DBR_code uses the transfer_matrix_method_f.m function, where the option to add an extra layer is controlled within the function script.
+To use the codes, download the main scripts, functions and refractive index data to your working directory and open the desired script in MATLAB and run it. The refractive index data files for Silicon dioxide and Tantalum pentaoxide that are already provided, are general oscillator models developed with the JA. Woollam WVASE ellipsometer software from measured thin film samples.
