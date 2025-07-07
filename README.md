@@ -6,4 +6,5 @@ These are MATLAB codes to model the reflectivity spectrum of Distributed Bragg R
 - number of layer pairs
 - angles of incidence
 - polarization
+
 It is important to note that the DBR_code uses the transfer_matrix_method_f.m function, where the option to add an extra layer is controlled within the function script.
